@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey there 👋  I'm Jesse Florig
+I like building modern web apps to solve complex problems.
 
-<!--
-**jesseflorig/jesseflorig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here's a quick rundown of my career
+- 2015 - Present: Full stack development @ [Novetta](https://www.novetta.com/)
+- 2013 - 2015: Full stack development @ [GRA](https://gra.com/)
+- 2011 - 2013: Software development @ [IBM](https://www.ibm.com/us-en/)
+- 2004 - 2011: Software development @ [USAF](https://www.airforce.com/)
 
-Here are some ideas to get you started:
+Since 2017, I've also been in cyber security in the [ANG](https://www.goang.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm especially interested in
+- ♿️ Web A11y
+- 🌩 serverless architecture
+- 👁 computer vision
+- 🛠 exploit development
