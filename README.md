@@ -2,6 +2,7 @@
 I like building modern web apps to solve complex problems.
 
 ### Here's a quick rundown of my career
+- 2017 - Present: VP, Software Engineering @ [Ephemerai](https://ephemer.ai)
 - 2015 - Present: Full stack development @ [Novetta](https://www.novetta.com/)
 - 2013 - 2015: Full stack development @ [GRA](https://gra.com/)
 - 2011 - 2013: Software development @ [IBM](https://www.ibm.com/us-en/)
@@ -10,7 +11,8 @@ I like building modern web apps to solve complex problems.
 Since 2017, I've also been in cyber security in the [ANG](https://www.goang.com/)
 
 ### I'm especially interested in
-- ♿️ Web A11y
+- ♿️ web a11y
 - 🌩 serverless architecture
+- 🤖 machine learning
 - 👁 computer vision
-- 🛠 exploit development
+- 🤹 c2 infrastructure
