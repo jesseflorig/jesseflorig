@@ -4,7 +4,7 @@ I like building modern web apps to solve complex problems.
 ### Here's a quick rundown of my career
 - 2021 - Present: Specialist Leader @ [Deloitte](https://deloitte.com)
 - 2017 - 2021: VP, Software Engineering @ [Ephemerai](https://ephemer.ai)
-- 2015 - Present: Full stack development @ [Novetta](https://www.novetta.com/)
+- 2015 - 2021: Full stack development @ [Novetta](https://www.novetta.com/)
 - 2013 - 2015: Full stack development @ [GRA](https://gra.com/)
 - 2011 - 2013: Software development @ [IBM](https://www.ibm.com/us-en/)
 - 2004 - 2011: Software development @ [USAF](https://www.airforce.com/)
