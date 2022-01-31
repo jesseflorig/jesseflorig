@@ -14,6 +14,7 @@ Since 2017, I've also been in cyber security in the [ANG](https://www.goang.com/
 ### I'm especially interested in
 - ♿️ web a11y
 - 🌩 web performance
+- 🍪 internet of things
 - 🤖 machine learning
 - 👁 computer vision
 - 🤹 c2 infrastructure
